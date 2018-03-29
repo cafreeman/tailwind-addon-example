@@ -1,0 +1,1 @@
+export { default } from 'tailwind-dummy-app-test/components/blue-thing';
